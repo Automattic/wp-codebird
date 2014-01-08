@@ -1,7 +1,7 @@
 {
     "name": "automattic/wp-codebird",
     "description": "An extension of the Codebird class to use WordPress' HTTP API instead of cURL.",
-    "version": "1.1.0",
+    "version": "1.1.2",
     "license": "GPL-2.0+",
     "require": {
         "mynetx/codebird-php": "~2.4"
