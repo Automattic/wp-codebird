@@ -6,7 +6,7 @@
  *
  * @version 1.1.2
  */
-class WP_Codebird extends Codebird {
+class WP_Codebird extends \Codebird\Codebird {
 	/**
 	 * The current singleton instance
 	 */
