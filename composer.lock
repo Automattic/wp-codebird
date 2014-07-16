@@ -1,12 +1,13 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "315359867471cb3c90c59182a9b9e389",
+    "hash": "4537ab0b992d7d3a995bf83a9d1bd7e0",
     "packages": [
         {
-            "name": "mynetx/codebird-php",
+            "name": "jublonet/codebird-php",
             "version": "2.4.1",
             "source": {
                 "type": "git",
